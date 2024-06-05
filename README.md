@@ -1,4 +1,4 @@
-# challenge5-merge-conflict
+REMOTE
 Ligne2
 Ligne3
 Ligne4
